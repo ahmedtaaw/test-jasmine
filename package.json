@@ -1,0 +1,22 @@
+{
+  "name": "test-jasmine",
+  "version": "1.0.0",
+  "description": "test-jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedtaaw/test-jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedtaaw/test-jasmine/issues"
+  },
+  "homepage": "https://github.com/ahmedtaaw/test-jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
